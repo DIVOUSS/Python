@@ -1,0 +1,7 @@
+print("\n\033[1mRecipe for prefect Scrambelled eggs\033[0m")
+print("1. Add 4-5 unseasoned and absolutely not whisked eggs to a sauce pan, mix, couple knobs of butter.")
+print("2. Stir the mixture on low flame, 30-40 seconds take it off the flame, keep mixing and scraping the walls.")
+print("3. Back on the flame then Keep repeatng step 2 a few times until desired consistency (i prefer a smoother one).")
+print("4. Add a tbsp or Sour Cream or Crème Fraîche, Salt, Pepper.")
+print("5. Serve on crispy toast.")
+print("6. Enjoy.\n")
