@@ -1,0 +1,4 @@
+THIS REPO HAS ALL THE THINGS I AM GOING TO DO TO LEARN PYTHON.
+<br>
+<br>
+<BOLD>(maybe not all)</BOLD>
